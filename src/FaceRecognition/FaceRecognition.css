@@ -1,0 +1,17 @@
+.facebox {
+    position: absolute;
+    box-shadow: 0 0 0 3px #149df2 inset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+  }
+
+  #imgdiv {
+  position: absolute; 
+left: 0; 
+right: 0; 
+margin-left: auto; 
+margin-right: auto; 
+width: 500px; /* Need a specific value to work */
+  }
